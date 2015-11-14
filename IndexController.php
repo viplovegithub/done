@@ -1,7 +1,3 @@
 <?php
-<<<<<<< HEAD
-echo “test12branch”;
-=======
-echo “test12master”;
->>>>>>> master
+echo “test12master brachtest”;
 ?>
